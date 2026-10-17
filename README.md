@@ -89,28 +89,24 @@ AI writes the code; specs and tests decide whether it's right.
 
 ```mermaid
 flowchart LR
-    A["📝 Spec &amp; BDD<br/>scenarios"] --> B["🧠 Context-rich<br/>prompt"]
-    B --> C["🧪 Tests first<br/>(red)"]
-    C --> D["⚙️ Production<br/>code"]
-    D --> E{"✅ All green?"}
+    A["📝 Spec"] --> B["🧠 Prompt"] --> C["🧪 Tests"] --> D["⚙️ Code"] --> E{"✅ Green?"}
     E -- no --> C
     E -- yes --> F["🚀 Ship"]
 ```
 
 ## 🧭 The journey so far
 
-```mermaid
-timeline
-    2013 : PHP core : Custom CMS
-    2015 : Laravel : PHPUnit
-    2017 : React : Node.js
-    2018 : AWS migration : Docker
-    2019 : Microservices : Kafka, RabbitMQ, SQS
-    2020 : Kubernetes : ECS, Helm
-    2021 : TDD & BDD across teams
-    2022 : ELK observability : Security automation
-    2024 : AI spec-driven development
-```
+| | Year | Milestone | Stack |
+|:-:|:-:|---|---|
+| 🌱 | **2013** | Started with core PHP: custom CMS and business sites | PHP · MySQL |
+| 🧱 | **2015** | Laravel, MVC and automated testing | Laravel · PHPUnit |
+| ⚛️ | **2017** | Full-stack JavaScript: SPAs and REST APIs | React · Node.js |
+| ☁️ | **2018** | Led my first big AWS migration | EC2 · S3 · Docker |
+| 🧩 | **2019** | Broke monoliths into event-driven microservices | Kafka · RabbitMQ · SQS |
+| ⎈ | **2020** | Container orchestration in production | Kubernetes · ECS · Helm |
+| 🧪 | **2021** | Brought TDD and BDD to whole teams | TDD · BDD · SonarQube |
+| 🔭 | **2022** | Observability and automated security | ELK stack |
+| 🤖 | **2024** | AI spec-driven development | AI agents · Specs |
 
 <br>
 
