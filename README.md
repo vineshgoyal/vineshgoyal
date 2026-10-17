@@ -1,74 +1,119 @@
-<h1 align="center">Hi, I'm Vinesh Goyal 👋</h1>
-<h3 align="center">Senior Full-Stack Architect · 12+ years · TDD/BDD · AWS · AI spec-driven development</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:10b981&height=220&section=header&text=Vinesh%20Goyal&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Architect%20%E2%80%A2%2012%2B%20years&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vinesh Goyal, Senior Full-Stack Architect"/>
 
 <p align="center">
-  <a href="https://vineshgoyal.online"><img src="https://img.shields.io/badge/Portfolio-vineshgoyal.online-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/vineshgoyal/"><img src="https://img.shields.io/badge/LinkedIn-vineshgoyal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact@vineshgoyal.online"><img src="https://img.shields.io/badge/Email-contact%40vineshgoyal.online-10b981?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://vineshgoyal.online">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Senior+Full-Stack+Architect;TDD+%26+BDD+Quality+Champion;AWS+Cloud+Infrastructure+Expert;Microservices+%26+Event-Driven+Systems;AI+Spec-Driven+Developer" alt="Senior Full-Stack Architect, TDD & BDD Quality Champion, AWS Cloud Infrastructure Expert, Microservices & Event-Driven Systems, AI Spec-Driven Developer"/>
+  </a>
 </p>
 
-I build scalable microservices, cloud infrastructure on AWS, and quality-first software. I started with core PHP in 2013 and have since worked through Laravel, Node.js and React, AWS migrations, event-driven microservices and Kubernetes. Today I pair AI coding agents with strict specs and automated tests to ship faster without dropping quality.
+<p align="center">
+  <a href="https://vineshgoyal.online"><img src="https://img.shields.io/badge/Portfolio-vineshgoyal.online-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/vineshgoyal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@vineshgoyal.online"><img src="https://img.shields.io/badge/Email-Say_hello-10b981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+</p>
 
-- 🏗️ **Architecture:** distributed systems, event-driven microservices (Kafka, RabbitMQ, SQS)
-- ☁️ **Cloud:** AWS (ECS, EKS, ALB, SQS, S3), Docker, Kubernetes, Helm, CI/CD
-- 🧪 **Quality:** TDD and BDD, with tests written before production code
-- 🤖 **AI workflow:** spec → Gherkin scenarios → generated tests → generated code → green build
-- 📍 Based in India · open to architecture and full-stack work
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%85_Experience-12%2B_years-0ea5e9?style=flat-square" alt="12+ years experience">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A9_Microservices-50%2B_deployed-8b5cf6?style=flat-square" alt="50+ microservices deployed">
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Uptime-99.99%25-f59e0b?style=flat-square" alt="99.99% uptime">
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AA_Quality-TDD%20%2F%20BDD-10b981?style=flat-square" alt="TDD / BDD">
+</p>
+
+## 👨‍💻 About me
+
+```ts
+const vinesh = {
+  role:      "Senior Full-Stack Architect",
+  basedIn:   "India 🇮🇳",
+  since:     2013,
+  builds:    ["distributed systems", "cloud-native AWS microservices", "products that ship"],
+  believes:  "tests first, then code. Specs first, then AI.",
+  currently: "pairing AI coding agents with strict specs and automated tests",
+  openTo:    ["architecture consulting", "full-stack builds", "team quality coaching"],
+};
+```
 
 ## 🚀 Live in production
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**TanksGym**](https://tanksgym.in/) | A gym chain's site moved off WordPress onto Laravel, with a custom CRM for enquiries | Laravel · Filament · SQLite |
-| [**Noor Auto Accessories**](https://noor.vineshgoyal.online/) | Online store for an auto-parts retailer: catalogue, variants, offers, stock and cart | Laravel · E-commerce |
-| [**FeedSetu**](https://feedsetu.vineshgoyal.online/) | SaaS widget that embeds a live Instagram feed on any site with one line of HTML | Instagram API · Embeddable widget |
-| [**SmileCraft Dental**](https://dental3.videsolutions.in/) | Dental clinic platform with treatment guides and online appointment booking | Laravel · Tailwind CSS · Alpine.js |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ <a href="https://tanksgym.in/">TanksGym</a></h3>
+      <sub><b>Custom CRM &amp; website</b></sub>
+      <p>A gym chain that outgrew WordPress, rebuilt from scratch on Laravel as a super-light site with its own CRM for every enquiry. No plugins, no page builder.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logoColor=black" alt="Filament">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    </td>
+    <td width="50%" valign="top">
+      <h3>📸 <a href="https://feedsetu.vineshgoyal.online/">FeedSetu</a></h3>
+      <sub><b>SaaS widget</b></sub>
+      <p>A live Instagram feed for any website, installed with one line of HTML. Posts, Reels or both, as a grid, carousel, masonry or slider.</p>
+      <img src="https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram API">
+      <img src="https://img.shields.io/badge/Embeddable_widget-8b5cf6?style=flat-square" alt="Embeddable widget">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://noor.vineshgoyal.online/">Noor Auto Accessories</a></h3>
+      <sub><b>Online store</b></sub>
+      <p>A storefront for an auto-parts retailer: categorised catalogue, product variants, offer pricing, live stock status and a cart.</p>
+      <img src="https://img.shields.io/badge/E--commerce-0ea5e9?style=flat-square" alt="E-commerce">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦷 <a href="https://dental3.videsolutions.in/">SmileCraft Dental</a></h3>
+      <sub><b>Clinic website &amp; booking</b></sub>
+      <p>A family dentistry platform with treatment guides, dentist profiles, patient reviews and online appointment booking.</p>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tech stack
+## 🛠️ Tech arsenal
 
-**Frontend**<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+<p align="center"><b>Frontend</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,html,css&perline=7" alt="React, TypeScript, JavaScript, Vue, Tailwind CSS, HTML, CSS"/>
+</p>
+<p align="center"><b>Backend &amp; data</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres,elasticsearch&perline=7" alt="Node.js, Express, PHP, Laravel, MySQL, PostgreSQL, Elasticsearch"/>
+</p>
+<p align="center"><b>Cloud, DevOps &amp; messaging</b><br><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,kafka,rabbitmq,linux&perline=7" alt="AWS, Docker, Kubernetes, GitHub Actions, Kafka, RabbitMQ, Linux"/>
+</p>
 
-**Backend & APIs**<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+## 🤖 How I ship with AI
 
-**Cloud & DevOps**<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+AI writes the code; specs and tests decide whether it's right.
 
-**Messaging & Quality**<br>
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Cucumber](https://img.shields.io/badge/BDD_·_Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-
-## 🧭 Journey
-
+```mermaid
+flowchart LR
+    A["📝 Spec &amp; BDD<br/>scenarios"] --> B["🧠 Context-rich<br/>prompt"]
+    B --> C["🧪 Tests first<br/>(red)"]
+    C --> D["⚙️ Production<br/>code"]
+    D --> E{"✅ All green?"}
+    E -- no --> C
+    E -- yes --> F["🚀 Ship"]
 ```
-2013  PHP core, custom CMS and business websites
-2015  Laravel, MVC, automated testing
-2017  Node.js + React: SPAs and REST APIs
-2018  First major AWS migration, Docker
-2019  Monoliths → microservices (Kafka, RabbitMQ, SQS)
-2020  Kubernetes and ECS in production
-2021  TDD and BDD across engineering teams
-2022  Observability (ELK) and security automation
-2024  AI spec-driven development workflows
+
+## 🧭 The journey so far
+
+```mermaid
+timeline
+    2013 : PHP core : Custom CMS
+    2015 : Laravel : PHPUnit
+    2017 : React : Node.js
+    2018 : AWS migration : Docker
+    2019 : Microservices : Kafka, RabbitMQ, SQS
+    2020 : Kubernetes : ECS, Helm
+    2021 : TDD & BDD across teams
+    2022 : ELK observability : Security automation
+    2024 : AI spec-driven development
 ```
 
----
+<br>
 
-<p align="center">Most of my client work lives in private repos. See <a href="https://vineshgoyal.online">vineshgoyal.online</a> for case studies, or <a href="https://www.linkedin.com/in/vineshgoyal/">reach out on LinkedIn</a>.</p>
+<p align="center"><i>Most of my client work lives in private repos. The case studies are on <a href="https://vineshgoyal.online">vineshgoyal.online</a>.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:8b5cf6,100:0ea5e9&height=110&section=footer" width="100%" alt=""/>
