@@ -87,12 +87,10 @@ const vinesh = {
 
 AI writes the code; specs and tests decide whether it's right.
 
-```mermaid
-flowchart LR
-    A["📝 Spec"] --> B["🧠 Prompt"] --> C["🧪 Tests"] --> D["⚙️ Code"] --> E{"✅ Green?"}
-    E -- no --> C
-    E -- yes --> F["🚀 Ship"]
-```
+<p align="center">
+  <b>📝 Spec</b> &nbsp;➜&nbsp; <b>🧠 Prompt</b> &nbsp;➜&nbsp; <b>🧪 Tests (red)</b> &nbsp;➜&nbsp; <b>⚙️ Code</b> &nbsp;➜&nbsp; <b>✅ Green</b> &nbsp;➜&nbsp; <b>🚀 Ship</b><br>
+  <sub>🔁 not green? straight back to the tests</sub>
+</p>
 
 ## 🧭 The journey so far
 
