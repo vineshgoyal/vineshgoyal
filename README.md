@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:10b981&height=220&section=header&text=Vinesh%20Goyal&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Architect%20%E2%80%A2%2012%2B%20years&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vinesh Goyal, Senior Full-Stack Architect"/>
+<a href="https://vineshgoyal.online"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:10b981&height=220&section=header&text=Vinesh%20Goyal&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Architect%20%E2%80%A2%2012%2B%20years&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Vinesh Goyal, Senior Full-Stack Architect"/></a>
 
 <p align="center">
   <a href="https://vineshgoyal.online">
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%85_Experience-12%2B_years-0ea5e9?style=flat-square" alt="12+ years experience">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A9_Microservices-50%2B_deployed-8b5cf6?style=flat-square" alt="50+ microservices deployed">
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Uptime-99.99%25-f59e0b?style=flat-square" alt="99.99% uptime">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%AA_Quality-TDD%20%2F%20BDD-10b981?style=flat-square" alt="TDD / BDD">
+  <a href="https://vineshgoyal.online/#home"><img src="https://img.shields.io/badge/%F0%9F%93%85_Experience-12%2B_years-0ea5e9?style=flat-square" alt="12+ years experience"></a>
+  <a href="https://vineshgoyal.online/#home"><img src="https://img.shields.io/badge/%F0%9F%A7%A9_Microservices-50%2B_deployed-8b5cf6?style=flat-square" alt="50+ microservices deployed"></a>
+  <a href="https://vineshgoyal.online/#home"><img src="https://img.shields.io/badge/%E2%9A%A1_Uptime-99.99%25-f59e0b?style=flat-square" alt="99.99% uptime"></a>
+  <a href="https://vineshgoyal.online/#home"><img src="https://img.shields.io/badge/%F0%9F%A7%AA_Quality-TDD%20%2F%20BDD-10b981?style=flat-square" alt="TDD / BDD"></a>
 </p>
 
 ## 👨‍💻 About me
@@ -41,16 +41,16 @@ const vinesh = {
       <h3>🏋️ <a href="https://tanksgym.in/">TanksGym</a></h3>
       <sub><b>Custom CRM &amp; website</b></sub>
       <p>A gym chain that outgrew WordPress, rebuilt from scratch on Laravel as a super-light site with its own CRM for every enquiry. No plugins, no page builder.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-      <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logoColor=black" alt="Filament">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <a href="https://tanksgym.in/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
+      <a href="https://tanksgym.in/"><img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square&logoColor=black" alt="Filament"></a>
+      <a href="https://tanksgym.in/"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"></a>
     </td>
     <td width="50%" valign="top">
       <h3>📸 <a href="https://feedsetu.vineshgoyal.online/">FeedSetu</a></h3>
       <sub><b>SaaS widget</b></sub>
       <p>A live Instagram feed for any website, installed with one line of HTML. Posts, Reels or both, as a grid, carousel, masonry or slider.</p>
-      <img src="https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram API">
-      <img src="https://img.shields.io/badge/Embeddable_widget-8b5cf6?style=flat-square" alt="Embeddable widget">
+      <a href="https://feedsetu.vineshgoyal.online/"><img src="https://img.shields.io/badge/Instagram_API-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram API"></a>
+      <a href="https://feedsetu.vineshgoyal.online/"><img src="https://img.shields.io/badge/Embeddable_widget-8b5cf6?style=flat-square" alt="Embeddable widget"></a>
     </td>
   </tr>
   <tr>
@@ -58,15 +58,15 @@ const vinesh = {
       <h3>🚗 <a href="https://noor.vineshgoyal.online/">Noor Auto Accessories</a></h3>
       <sub><b>Online store</b></sub>
       <p>A storefront for an auto-parts retailer: categorised catalogue, product variants, offer pricing, live stock status and a cart.</p>
-      <img src="https://img.shields.io/badge/E--commerce-0ea5e9?style=flat-square" alt="E-commerce">
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+      <a href="https://noor.vineshgoyal.online/"><img src="https://img.shields.io/badge/E--commerce-0ea5e9?style=flat-square" alt="E-commerce"></a>
+      <a href="https://noor.vineshgoyal.online/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🦷 <a href="https://dental3.videsolutions.in/">SmileCraft Dental</a></h3>
       <sub><b>Clinic website &amp; booking</b></sub>
       <p>A family dentistry platform with treatment guides, dentist profiles, patient reviews and online appointment booking.</p>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-      <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js">
+      <a href="https://dental3.videsolutions.in/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
+      <a href="https://dental3.videsolutions.in/"><img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js"></a>
     </td>
   </tr>
 </table>
@@ -74,13 +74,13 @@ const vinesh = {
 ## 🛠️ Tech arsenal
 
 <p align="center"><b>Frontend</b><br><br>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,html,css&perline=7" alt="React, TypeScript, JavaScript, Vue, Tailwind CSS, HTML, CSS"/>
+  <a href="https://vineshgoyal.online/#skills"><img src="https://skillicons.dev/icons?i=react,ts,js,vue,tailwind,html,css&perline=7" alt="React, TypeScript, JavaScript, Vue, Tailwind CSS, HTML, CSS"/></a>
 </p>
 <p align="center"><b>Backend &amp; data</b><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres,elasticsearch&perline=7" alt="Node.js, Express, PHP, Laravel, MySQL, PostgreSQL, Elasticsearch"/>
+  <a href="https://vineshgoyal.online/#skills"><img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres,elasticsearch&perline=7" alt="Node.js, Express, PHP, Laravel, MySQL, PostgreSQL, Elasticsearch"/></a>
 </p>
 <p align="center"><b>Cloud, DevOps &amp; messaging</b><br><br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,kafka,rabbitmq,linux&perline=7" alt="AWS, Docker, Kubernetes, GitHub Actions, Kafka, RabbitMQ, Linux"/>
+  <a href="https://vineshgoyal.online/#skills"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,kafka,rabbitmq,linux&perline=7" alt="AWS, Docker, Kubernetes, GitHub Actions, Kafka, RabbitMQ, Linux"/></a>
 </p>
 
 ## 🤖 How I ship with AI
@@ -110,4 +110,4 @@ AI writes the code; specs and tests decide whether it's right.
 
 <p align="center"><i>Most of my client work lives in private repos. The case studies are on <a href="https://vineshgoyal.online">vineshgoyal.online</a>.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:8b5cf6,100:0ea5e9&height=110&section=footer" width="100%" alt=""/>
+<a href="https://vineshgoyal.online"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:8b5cf6,100:0ea5e9&height=110&section=footer" width="100%" alt=""/></a>
